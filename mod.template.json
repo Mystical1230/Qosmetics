@@ -1,11 +1,11 @@
 {
-  "_QPVersion": "0.1.1",
+  "_QPVersion": "0.2.0",
   "name": "${mod_name}",
   "id": "${mod_id}",
   "author": "RedBrumbler",
   "version": "${version}",
   "packageId": "com.beatgames.beatsaber",
-  "packageVersion": "1.17.1",
+  "packageVersion": "1.20.0",
   "coverImage": "cover.gif",
   "description": "Quest Cosmetics on a whole new level!",
   "dependencies": [],
